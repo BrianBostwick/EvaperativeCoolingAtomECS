@@ -124,7 +124,7 @@ fn main() {
     let vel_normal = Normal::new(0.0, 1.0e-3).unwrap();
     vel_normal.sample(&mut rand::thread_rng());
 
-    for _i in 0..1 {
+    for _i in 0..10000 {
         world
             .create_entity()
             .with(Position {
@@ -203,7 +203,7 @@ fn main() {
     world.insert(Timestep { delta: dt });
 
     // Run the simulation for a number of steps.
-    for _i in 0..1000{
+    for _i in 0..50000{
         dispatcher.dispatch(&mut world);
         world.maintain();
     }
