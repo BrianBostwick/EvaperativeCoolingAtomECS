@@ -1,0 +1,5 @@
+/Users/brianbostwick/Code/Rust/AtomECS/target/debug/deps/libatomecs_derive-daae28112418d2a1.dylib: /Users/brianbostwick/.cargo/git/checkouts/atomecs-derive-795ac188f4bd9581/94a4e17/src/lib.rs
+
+/Users/brianbostwick/Code/Rust/AtomECS/target/debug/deps/atomecs_derive-daae28112418d2a1.d: /Users/brianbostwick/.cargo/git/checkouts/atomecs-derive-795ac188f4bd9581/94a4e17/src/lib.rs
+
+/Users/brianbostwick/.cargo/git/checkouts/atomecs-derive-795ac188f4bd9581/94a4e17/src/lib.rs:

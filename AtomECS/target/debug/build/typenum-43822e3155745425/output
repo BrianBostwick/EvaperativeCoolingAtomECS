@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/brianbostwick/Code/Rust/AtomECS/target/debug/build/typenum-43822e3155745425/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/brianbostwick/Code/Rust/AtomECS/target/debug/build/typenum-43822e3155745425/out/op.rs
